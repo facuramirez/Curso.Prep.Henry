@@ -1,0 +1,2 @@
+Array: es un coleccion de datos. Es un lugar donde se pueden almacenar varios datos para luego tener
+acceso a ellos.
