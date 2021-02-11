@@ -1,0 +1,9 @@
+For: es una sentencia que se encarga de repetir un bloque de codigo tantas veces como se le indique.
+
+&&: Es un operador lógico que sirve para evaluar 2 expresiones. Si ambas son verdaderas devuelve True, sino devuelve False.
+
+||: Es un operador lógico que sirve para evaluar 2 expresiones. Si ambas son falas devuelve False, sino con que una de
+ellas sea verdadera devolvera True.
+
+!: Es un operador que sirve para negar algo. Se coloca delante de la expresión que se quiere negar. Devuelve un valor
+booleano (True o False) contrario al del valor de la expresión evaluada.
