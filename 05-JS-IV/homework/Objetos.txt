@@ -1,0 +1,11 @@
+Objetos: son lugares donde se pueden almacenar datos. Se pueden acceder a esos datos mediante propiedades que son 
+referencias que se asignan a esos datos al crear el objeto o al agregarlos posteriormente a su creación.
+
+Propiedades: son las referencias a los datos que se encuentran dentro del objeto.
+
+Métodos: son funciones que se encuentran dentro del objeto.
+
+Bucle for in: Permite recorrer un objeto. Esas iteraciones dependen de la cantidad de posiciones o lugares que
+tengan los mismos.
+
+Notacion de puntos vs notación de corchetes: Son dos formas de acceder a las propiedades de un objeto.
