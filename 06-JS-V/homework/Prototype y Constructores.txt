@@ -1,0 +1,3 @@
+Prototype: Hace referencia al conjunto de metodos "de base" que poseen los objetos en JavaScript. 
+
+Constructor: Es un método que otorga un estado inicial a un objeto.
